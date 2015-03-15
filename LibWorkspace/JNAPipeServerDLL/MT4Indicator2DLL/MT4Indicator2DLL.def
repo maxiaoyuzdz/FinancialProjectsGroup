@@ -1,0 +1,6 @@
+LIBRARY MT4Indicator2DLL
+EXPORTS
+
+AnalyzeTrend
+TimeTestStart
+TimeTestEnd

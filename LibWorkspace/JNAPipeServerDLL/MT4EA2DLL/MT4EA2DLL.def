@@ -1,0 +1,8 @@
+LIBRARY MT4EA2DLL
+EXPORTS
+
+AnalyzeTrend
+TimeTestStart
+TimeTestEnd
+SetMarketInfo_Spread
+ReportOrderResult

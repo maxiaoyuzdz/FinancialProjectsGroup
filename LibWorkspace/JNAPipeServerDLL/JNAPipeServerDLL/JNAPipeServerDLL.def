@@ -1,0 +1,24 @@
+LIBRARY JNAPipeServerDLL
+EXPORTS
+
+
+WaitForClientConnection
+
+CreateNamedPipeForM1
+CreateNamedPipeForM5
+CreateNamedPipeForM15
+CreateNamedPipeForM30
+CreateNamedPipeForH1
+CreateNamedPipeForH4
+CreateNamedPipeForD
+
+
+ReadInitDataFromPipe
+
+ReadStartDataFromPipe
+
+
+
+
+
+

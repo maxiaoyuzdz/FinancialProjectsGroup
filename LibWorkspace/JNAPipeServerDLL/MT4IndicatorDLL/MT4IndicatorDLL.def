@@ -1,0 +1,7 @@
+LIBRARY MT4IndicatorDLL
+EXPORTS
+
+ComputingTrend
+
+
+

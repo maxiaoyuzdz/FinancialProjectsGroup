@@ -1,0 +1,7 @@
+LIBRARY MT4Indicator3DLL
+EXPORTS
+
+AnalyzeTrend
+TimeTestStart
+TimeTestEnd
+SetMarketInfo_Spread

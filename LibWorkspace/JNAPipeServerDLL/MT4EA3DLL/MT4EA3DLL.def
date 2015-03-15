@@ -1,0 +1,9 @@
+LIBRARY MT4EA3DLL
+EXPORTS
+
+PrintTest
+ArrayTest
+AnalyzeFunction
+GetInt
+
+
